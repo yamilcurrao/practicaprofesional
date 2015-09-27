@@ -1,4 +1,4 @@
-<?php get_header();
+<?php get_header(); //comentario para probar el github
 get_template_part('breadcrums'); ?>
 <div class="container">	
 	<div class="row enigma_blog_wrapper">
