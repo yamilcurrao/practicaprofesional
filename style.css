@@ -934,10 +934,10 @@ transition: all 0.3s ease 0s;
 	
 }
 .enigma_blog_thumb_wrapper h2 a:hover {
-	color: #34495e !important;
+	color: #948273 !important;
 }
 .enigma_fuul_blog_detail_padding h2 a:hover {
-	color: #34495e !important;
+	color: #948273 !important;
 }
 .enigma_blog_thumb_wrapper{
 	position:relative;
@@ -1982,7 +1982,7 @@ margin-bottom: 20px;
 
 
 .enigma_footer_widget_area{
-	background: #34495e;
+	background: #948273;
 }
 
 .enigma-footer-separator{
@@ -2392,7 +2392,7 @@ color: #fff;
 .enigma_fuul_blog_detail_padding h1,.enigma_fuul_blog_detail_padding h3,.enigma_fuul_blog_detail_padding h4,
 .enigma_fuul_blog_detail_padding h5 , .enigma_fuul_blog_detail_padding h5, .enigma_fuul_blog_detail_padding h6 
 {
-color: #31A3DD;
+color: #009D7E;
 margin-top: 10px;
 margin-bottom: 10px;
 }
