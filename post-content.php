@@ -43,7 +43,7 @@
 		<?php //} ?>
 		</div>
 		</div>
-		<?php the_content( __( 'Read More' , 'weblizar' ) );//contenido del post - yamil
+		<?php if (!is_home())the_content( __( 'Read More' , 'weblizar' ) );//contenido del post - yamil
 		$defaults = array(
               'before'           => '<div class="enigma_blog_pagination"><div class="enigma_blog_pagi">' . __( 'Pages:','weblizar'  ),
               'after'            => '</div></div>',
