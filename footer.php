@@ -23,9 +23,9 @@
 		<div class="container">
 			<div class="col-md-12">
 			<p class="enigma_footer_copyright_info wl_rtl" >
-			<?php if($wl_theme_options['footer_customizations']) { echo esc_attr($wl_theme_options['footer_customizations']); }
-			if($wl_theme_options['developed_by_text']) { echo "|" .esc_attr($wl_theme_options['developed_by_text']); } ?>
-			<a target="_blank" rel="nofollow" href="<?php if($wl_theme_options['developed_by_link']) { echo esc_url($wl_theme_options['developed_by_link']); } ?>"><?php if($wl_theme_options['developed_by_weblizar_text']) { echo esc_attr($wl_theme_options['developed_by_weblizar_text']); } ?></a></p>
+			<?php /*if($wl_theme_options['footer_customizations']) { echo esc_attr($wl_theme_options['footer_customizations']); }
+			if($wl_theme_options['developed_by_text']) { echo "|" .esc_attr($wl_theme_options['developed_by_text']); }*/ ?>
+			</p>
 			<?php if($wl_theme_options['footer_section_social_media_enbled'] == '1') { ?>
 			<div class="enigma_footer_social_div">
 				<ul class="social">
